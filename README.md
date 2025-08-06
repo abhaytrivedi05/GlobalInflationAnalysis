@@ -79,11 +79,11 @@ This project presents a comprehensive Power BI dashboard that visualizes and ana
 
 ## 👤 Author
 
-*Butar Avnish*  
+*Abhay Trivedi*  
 Aspiring Data Analyst | Power BI Enthusiast  
-📧 Email: butaravnish1@gmail.com  
-🔗 LinkedIn: www.linkedin.com/in/avnish-butar-77b35a257       
-📁 GitHub: https://github.com/AvnishButar
+📧 Email: trivediabhay0512@gmail.com  
+🔗 LinkedIn: (https://www.linkedin.com/in/abhay-trivedi-8214b4251/      
+📁 GitHub: https://github.com/abhaytrivedi05
 
 ---
 
